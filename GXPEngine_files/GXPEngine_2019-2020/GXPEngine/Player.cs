@@ -58,4 +58,4 @@ public class Player : Sprite
         MovementInput();
         OutOfScreen();
     }
-}
+};
