@@ -8,7 +8,7 @@ public class MyGame : Game
 	{
         Level level = new Level();
         AddChild(level);
-        level.SetXY(400, 300);
+        level.SetXY(0, 0);
     }
 
     void Update()

@@ -12,7 +12,7 @@ public class Level : GameObject
     {
         player = new Player();
         AddChild(player);
-        player.SetXY(0, 0);
+        player.SetXY(400, 300);
         //rotation = 90;
     }
 

@@ -8,3 +8,8 @@ E:\Saxion CMGT [2019-2020]\Term 3\_1_Project Lift-off\Team-10And9\GXPEngine_file
 E:\Saxion CMGT [2019-2020]\Term 3\_1_Project Lift-off\Team-10And9\GXPEngine_files\GXPEngine_2019-2020\GXPEngine\obj\x86\Debug\GXPEngine.csprojAssemblyReference.cache
 E:\Saxion CMGT [2019-2020]\Term 3\_1_Project Lift-off\Team-10And9\GXPEngine_files\GXPEngine_2019-2020\GXPEngine\obj\x86\Debug\GXPEngine.exe
 E:\Saxion CMGT [2019-2020]\Term 3\_1_Project Lift-off\Team-10And9\GXPEngine_files\GXPEngine_2019-2020\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+C:\Users\Radu Trifu\Documents\GitHub\Team-10And9\GXPEngine_files\GXPEngine_2019-2020\GXPEngine\bin\Debug\GXPEngine.exe
+C:\Users\Radu Trifu\Documents\GitHub\Team-10And9\GXPEngine_files\GXPEngine_2019-2020\GXPEngine\bin\Debug\GXPEngine.pdb
+C:\Users\Radu Trifu\Documents\GitHub\Team-10And9\GXPEngine_files\GXPEngine_2019-2020\GXPEngine\obj\x86\Debug\GXPEngine.csprojAssemblyReference.cache
+C:\Users\Radu Trifu\Documents\GitHub\Team-10And9\GXPEngine_files\GXPEngine_2019-2020\GXPEngine\obj\x86\Debug\GXPEngine.exe
+C:\Users\Radu Trifu\Documents\GitHub\Team-10And9\GXPEngine_files\GXPEngine_2019-2020\GXPEngine\obj\x86\Debug\GXPEngine.pdb

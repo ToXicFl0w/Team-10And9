@@ -46,9 +46,9 @@ public class Player : Sprite
 
     void OutOfScreen()
     {
-        if(this.y >= 700)
+        if(this.y >= 1080)
         {
-            this.y = 600;
+            this.y = 1080;
         }
     }
 
